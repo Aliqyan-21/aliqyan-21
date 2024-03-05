@@ -22,9 +22,11 @@
 
 ![aliqyan-21's Stats](https://github-readme-stats.vercel.app/api?username=aliqyan-21&theme=prussian&show_icons=true&hide_border=true&count_private=true)
 ![aliqyan-21's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aliqyan-21&theme=prussian&hide_border=true)
-<br>
-<div align="center">
-  <img src="https://spotify-recently-played-readme.vercel.app/api?count=5" alt="Spotify recently played"  />
+<br><img src="https://raw.githubusercontent.com/aliqyan-21/aliqyan-21/output/snake.svg" alt="Snake animation" />
+
+###
+
+<div align="left">
 </div>
 
 ###
