@@ -22,11 +22,9 @@
 
 ![aliqyan-21's Stats](https://github-readme-stats.vercel.app/api?username=aliqyan-21&theme=prussian&show_icons=true&hide_border=true&count_private=true)
 ![aliqyan-21's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aliqyan-21&theme=prussian&hide_border=true)
-<br><img src="https://raw.githubusercontent.com/aliqyan-21/aliqyan-21/output/snake.svg" alt="Snake animation" />
 
-###
-
-<div align="left">
-</div>
-
-###
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="github-snake.svg" />
+  <img alt="github-snake" src="github-snake.svg" />
+</picture>
