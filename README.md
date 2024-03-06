@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliqyan-21&label=Profile%20views&color=0e75b6&style=flat" alt="aliqyan-21" /> </p>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliqyan-21" alt="aliqyan-21" /></a> </p>
+**<p align="left"> <a href="[https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=aliqyan-21](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3&theme=onedark)" alt="aliqyan-21" /></a> </p>**
 
 - 📫 How to reach me **aliqyanabid21@gmail.com**
 
