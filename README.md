@@ -23,4 +23,9 @@
 ![aliqyan-21's Stats](https://github-readme-stats.vercel.app/api?username=aliqyan-21&theme=prussian&show_icons=true&hide_border=true&count_private=true)
 ![aliqyan-21's Streak](https://github-readme-streak-stats.herokuapp.com/?user=aliqyan-21&theme=prussian&hide_border=true)
 
-![Snake animation](https://github.com/aliqyan-21/aliqyan-21/blob/output/github-contribution-grid-snake.svg)
+<br>
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake-dark.svg">
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+  <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/platane/platane/output/github-contribution-grid-snake.svg">
+</picture>
