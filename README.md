@@ -4,7 +4,7 @@
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=aliqyan-21&label=Profile%20views&color=0e75b6&style=flat" alt="aliqyan-21" /> </p>
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=ryo-ma&row=2&column=3&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
+[![trophy](https://github-profile-trophy.vercel.app/?username=aliqyan-21&row=2&column=3&theme=onedark)](https://github.com/ryo-ma/github-profile-trophy)
 
 - 📫 How to reach me **aliqyanabid21@gmail.com**
 
