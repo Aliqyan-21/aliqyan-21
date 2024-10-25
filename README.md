@@ -26,7 +26,7 @@
 </p>
 
 <br/>
-[![An image of @aliqyan21's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aliqyan21)](https://holopin.io/@aliqyan21)
+<img src="https://holopin.me/aliqyan21">
 <br/>
 
 <h3 align="center">Languages and Tools:</h3>
