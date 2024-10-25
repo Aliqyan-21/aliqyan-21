@@ -87,6 +87,8 @@
 </p>
 
 <br />
+[![An image of @aliqyan21's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/aliqyan21)](https://holopin.io/@aliqyan21)
+<br />
 
 <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=aliqyan-21&theme=prussian&show_icons=true&hide_border=true&count_private=true" alt="GitHub Stats"/>
