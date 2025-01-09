@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Aliqyan</h1>
-<h3 align="center">A passionate developer from India, C++, Linux and Neovim enthusiast. I am also a great learner who is always eager to learn new and exciting things. Also doing specialization in AI and ML.</h3>
+<h3 align="center">A passionate developer from India, C++, Linux and Neovim enthusiast. I am also a great learner who is always eager to learn new and exciting things. Call me an <b>Autodidact</b>! </h3>
 <br>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=aliqyan-21&label=Profile%20views&color=0e75b6&style=flat" alt="aliqyan-21" /> </p>
